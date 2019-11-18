@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="CommonLib/src"/>
+	<classpathentry kind="src" path="Drone/src"/>
+	<classpathentry kind="src" path="Gcs/src"/>
+	<classpathentry kind="lib" path="CommonLib/lib/json-20180130.jar"/>
+	<classpathentry kind="lib" path="CommonLib/lib/logback-classic-1.2.3.jar"/>
+	<classpathentry kind="lib" path="CommonLib/lib/logback-core-1.2.3.jar"/>
+	<classpathentry kind="lib" path="CommonLib/lib/opencv-345.jar"/>
+	<classpathentry kind="lib" path="CommonLib/lib/org.eclipse.paho.client.mqttv3-1.2.0.jar"/>
+	<classpathentry kind="lib" path="CommonLib/lib/RXTXcomm-2.2pre2.jar"/>
+	<classpathentry kind="lib" path="CommonLib/lib/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="Drone/lib/json-20180130.jar"/>
+	<classpathentry kind="lib" path="Drone/lib/logback-classic-1.2.3.jar"/>
+	<classpathentry kind="lib" path="Drone/lib/logback-core-1.2.3.jar"/>
+	<classpathentry kind="lib" path="Drone/lib/opencv-345.jar"/>
+	<classpathentry kind="lib" path="Drone/lib/org.eclipse.paho.client.mqttv3-1.2.0.jar"/>
+	<classpathentry kind="lib" path="Drone/lib/pi4j-core.jar"/>
+	<classpathentry kind="lib" path="Drone/lib/pi4j-device.jar"/>
+	<classpathentry kind="lib" path="Drone/lib/pi4j-gpio-extension.jar"/>
+	<classpathentry kind="lib" path="Drone/lib/RXTXcomm-2.2pre2.jar"/>
+	<classpathentry kind="lib" path="Drone/lib/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="Gcs/lib/json-20180130.jar"/>
+	<classpathentry kind="lib" path="Gcs/lib/logback-classic-1.2.3.jar"/>
+	<classpathentry kind="lib" path="Gcs/lib/logback-core-1.2.3.jar"/>
+	<classpathentry kind="lib" path="Gcs/lib/org.eclipse.paho.client.mqttv3-1.2.0.jar"/>
+	<classpathentry kind="lib" path="Gcs/lib/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
